@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Face Recycler</string>
+    <string-array
+        name="strings">
+        <item>App1</item>
+        <item>App2</item>
+        <item>App3</item>
+        <item>App4</item>
+        <item>App5</item>
+        <item>App6</item>
+        <item>App7</item>
+    </string-array>
+</resources>
